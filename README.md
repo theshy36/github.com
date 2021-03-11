@@ -1,2 +1,2 @@
-# Hello.github.io
+# github.com
 Personal Homepage
